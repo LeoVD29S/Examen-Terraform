@@ -14,11 +14,3 @@ override.tf.json
 terraform.rc
 *.tfvars.local
 
-# OS / IDE
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/
-*.png
-*.jpg
-*.jpeg
